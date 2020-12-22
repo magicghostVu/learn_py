@@ -28,8 +28,10 @@ for i in range(0, 3):  # giống vòng for, i chạy 0,1,2
     print("i is", i)
 
 
+# dùng ngon vl
+
 def dfwsf(e: int) -> int:
-    return 5
+    return e
 
 
 """

@@ -11,3 +11,5 @@ lp.append(r)
 student = Student(23, 1.67)
 lp.append(student)
 height: float = student.get_height()
+# ở đây thì dễ nhìn nhưng mà ở bên java lại không
+
